@@ -1379,7 +1379,7 @@ a {
 }
 
 .cid-sjL72PRaEq {
-    padding-top: 9rem;
+    padding-top: max(240px, 9rem);
     padding-bottom: 0rem;
     background-image: url("../../../assets/images/bg5-2-1920x1080.png");
     background-position: bottom center;
@@ -1446,7 +1446,7 @@ a {
 }
 
 .cid-sjL83qcMea {
-    padding-top: 1rem;
+    padding-top: max(240px, 1rem);
     padding-bottom: 3rem;
     background-image: url("../../../assets/images/bg6-2-1920x714.png");
 }
